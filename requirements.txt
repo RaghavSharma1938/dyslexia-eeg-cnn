@@ -1,0 +1,12 @@
+torch>=2.2
+torchvision>=0.17
+torchaudio>=2.2
+
+pytorch-lightning>=2.2        # training loops, callbacks
+mne>=1.6                      # EEG I/O & filtering
+
+numpy
+scipy
+pandas
+scikit-learn
+tensorboard                   # optional but nice
