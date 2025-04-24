@@ -10,3 +10,4 @@ scipy
 pandas
 scikit-learn
 tensorboard                   # optional but nice
+reportlab>=3.6
