@@ -72,8 +72,7 @@ with st.sidebar:
     st.markdown("### 📦 Checkpoint")
     st.success(BEST_CKPT.name, icon="✅")
     st.markdown("---")
-    st.markdown("**Model**: 1-D CNN (4 conv)  \n"
-                "**Pre-proc**: 1-40 Hz BP, z-score, 3 s windows")
+    st.markdown("**Model**: 1-D CNN (4 conv)")
     st.caption("© Raghav Sharma · 2025")
 
 # ── main UI ────────────────────────────────────────────────────────────────
